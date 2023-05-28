@@ -1,4 +1,5 @@
-This is My Final Project that was done by myself. The project prompt was:
+This is My Final Project that was done by myself. The purpose of this is to present my work and i would not like 
+anyone to fork the repoaitory or claim the code as their own. Do not commit changes to the repository. The project prompt was:
 
 For this project, you will use the data tables on the SQL server. One set is labeled beginning with “pizza” and the
 other set beginning with “telecom”. You are encouraged to use any other reputable data source you find relevant
