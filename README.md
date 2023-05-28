@@ -1,4 +1,4 @@
-This is My Final Project that was done by myself. 
+This is My Final Project that was done by myself. The project prompt was:
 
 For this project, you will use the data tables on the SQL server. One set is labeled beginning with “pizza” and the
 other set beginning with “telecom”. You are encouraged to use any other reputable data source you find relevant
